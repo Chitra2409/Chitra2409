@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chitra2409&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chitra2409&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# Hacktoberfest Badges
+# 📖 Hacktoberfest Badges
 [![An image of @chitra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chitra)](https://holopin.io/@chitra)
 
 # 😂 Random Dev Meme
