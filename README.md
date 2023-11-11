@@ -1,5 +1,3 @@
-# Hi there 👋
-
 <!--
 **Chitra2409/Chitra2409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -12,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Chitra Sharma</h1>
+<h1 align="center">Hi there 👋, I'm Chitra Sharma</h1>
 <h3 align="center">A passionate web developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chitra2409&label=Profile%20views&color=0e75b6&style=flat" alt="chitra2409" /> </p>
