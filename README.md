@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chitra2409&label=Profile%20views&color=0e75b6&style=flat" alt="chitra2409" /> </p>
 
-- 🔭 I’m currently working on **Socket Programming Using Cryptography**
+- 🔭 I’m currently working on **Microservices based E-Commerce Platform**
 
-- 🌱 I’m currently learning **DSA, Web Development, Microservices Architecture**
+- 🌱 I’m currently learning **DSA and Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chitra2409](https://github.com/Chitra2409)
 
