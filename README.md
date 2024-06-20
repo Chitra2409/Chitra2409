@@ -45,6 +45,9 @@ Here are some ideas to get you started:
 # 📖 Hacktoberfest Badges
 [![An image of @chitra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chitra)](https://holopin.io/@chitra)
 
+# AWS User Group Event
+![AWS User Group](https://github.com/Chitra2409/Chitra2409/blob/380ec32da514ec86c5ec1f5f9ad25c1a7e0120cb/Hi!%20I%20am%20attending.gif)
+
 # 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
