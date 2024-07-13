@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/chitra sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chitra sharma" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chitra2409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chitra2409" height="30" width="40" /></a>
-<a href="(https://medium.com/@chitra.shr)" target="blank"><img align="center" src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb-1200-80.jpg" alt="chitra2409" height="30" width="40" /></a>
+<a href="https://medium.com/@chitra.shr" target="blank"><img align="center" src="https://tse4.mm.bing.net/th?id=OIP.EdqyfLfzUOMAiHVOkEW9OwHaHa&pid=Api&P=0&h=180" alt="chitra2409" height="30" width="40" /></a>
+<a href="https://in.pinterest.com/business/hub/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/01/pinterest-logo.png" alt="chitra2409" height="30" width="40" /></a> 
 </p>
 
 # 💻 Tech Stack:
