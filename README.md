@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/chitra sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chitra sharma" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chitra2409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chitra2409" height="30" width="40" /></a>
 <a href="https://medium.com/@chitra.shr" target="blank"><img align="center" src="https://tse4.mm.bing.net/th?id=OIP.EdqyfLfzUOMAiHVOkEW9OwHaHa&pid=Api&P=0&h=180" alt="chitra2409" height="40" width="40" /></a>
-<a href="https://in.pinterest.com/brushpen9" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/01/pinterest-logo.png" alt="chitra2409" height="40" width="40" /></a> 
+<a href="https://in.pinterest.com/brushpen9" target="blank"><img align="center" src="https://tse1.mm.bing.net/th?id=OIP.1abM4mqRqh3A5xhXGVzH1wHaHa&pid=Api&P=0&h=180" alt="chitra2409" height="40" width="40" /></a> 
 </p>
 
 # 💻 Tech Stack:
